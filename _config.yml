@@ -5,7 +5,7 @@ locale: en_US
 description: Civic Hacking
 logo: logo.png
 search: true
-url: http://openpuglia.org
+url: http://marfago.github.io/openpuglia-2/
 
 
 # Jekyll configuration
